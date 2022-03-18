@@ -1,4 +1,15 @@
 ### Hello World! Lucas here! 👋
+
+##
+
+- 🎓 𝗗𝗘𝗚𝗥𝗘𝗘: Bachelor of Computer Science in Mackenzie;
+- 🔧 I'm currently working on Union Data - QA Automation Tester;
+- ✍️ I'm currently studying:
+
+      🌐 HTML5/CSS/JavaScript and your FrameWorks;
+      🌐 Cypress for automation tests;
+      🌐 Jira Software;
+      🌐 Scrum Methodology;
   <div align="center">
   <a href="https://github.com/LucasKeiti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasKeiti&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
