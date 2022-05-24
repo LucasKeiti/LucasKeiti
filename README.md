@@ -25,7 +25,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align ="center" alt="Lucas-Node" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/208/208836.gif">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;"src="https://pa1.narvii.com/6607/c645addd499cf07905b2f1867de27bb7c2231655_hq.gif">
 </div>
   
   ##
