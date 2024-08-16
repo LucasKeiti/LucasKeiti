@@ -3,13 +3,16 @@
 ##
 
 - 🎓 𝗗𝗘𝗚𝗥𝗘𝗘: Bachelor of Computer Science in Mackenzie;
-- 🔧 I'm currently working on Union Data - QA Automation Tester;
+- 🔧 I'm currently working on Union Data - QA Automation Tester Engineer;
 - ✍️ I'm currently studying:
 
       🌐 HTML5/CSS/JavaScript and your FrameWorks;
       🌐 Cypress for automation tests;
+      🌐 Robot Framework;
       🌐 Jira Software;
       🌐 Scrum Methodology;
+      🌐 Postman and APIs;
+  
   <div align="center">
   <a href="https://github.com/LucasKeiti">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasKeiti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
