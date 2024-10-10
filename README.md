@@ -3,7 +3,7 @@
 ##
 
 - 🎓 𝗗𝗘𝗚𝗥𝗘𝗘: Bachelor of Computer Science in Mackenzie;
-- 🔧 I'm currently working on Union Data - QA Automation Tester Engineer;
+- 🔧 I'm a QA Automation Tester Engineer;
 - ✍️ I'm currently studying:
 
       🌐 HTML5/CSS/JavaScript and your FrameWorks;
